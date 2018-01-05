@@ -1,8 +1,10 @@
 python-firebase
 ===============
+Forked from
 http://github.com/mikexstudios/python-firebase
 by Michael Huynh (mike@mikexstudios.com)
 
+to support python3
 Purpose:
 -------
 
@@ -13,11 +15,11 @@ How to use
 
 1.  Install python-firebase using pip:
 
-        pip install -e git://github.com/mikexstudios/python-firebase.git#egg=python-firebase
+        pip install -e git://github.com/gahan-quixom/python-firebase.git#egg=python-firebase
         
     or with easy_install (not recommended):
 
-        easy_install http://github.com/mikexstudios/python-firebase/tarball/master
+        easy_install https://github.com/gahan-quixom/python-firebase/tarball/master
 
     Note that python-firebase depends on requests (http://python-requests.org),
     a REST/http client for python. If you used pip or easy_install, the
