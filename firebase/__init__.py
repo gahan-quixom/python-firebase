@@ -1,5 +1,9 @@
 import requests
-import urlparse #for urlparse and urljoin
+import sys
+if sys.version[0] == '3':
+    import urllib.parse as urlparse #for urlparse and urljoin
+else:
+    import urlparse
 import os #for os.path.dirname
 import json #for dumps
 
