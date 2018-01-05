@@ -3,8 +3,8 @@ python-firebase
 Forked from
 http://github.com/mikexstudios/python-firebase
 by Michael Huynh (mike@mikexstudios.com)
-
 to support python3
+
 Purpose:
 -------
 
